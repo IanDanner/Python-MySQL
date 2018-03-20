@@ -1,0 +1,1 @@
+Go to Database then select connect to database, choose local instance MySQL, with hostmame = localhost
